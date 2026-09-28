@@ -12,7 +12,7 @@
     "min_ensemble_size": 1,
     "parent_activity": "cmip",
     "parent_experiment": "historical",
-    "parent_mip_era": null,
+    "parent_mip_era": cmip7,
     "required_model_components": [],
     "tier": 1,
     "min_number_yrs_per_sim": 79.0
